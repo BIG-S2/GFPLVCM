@@ -1,0 +1,12 @@
+Package: GFPLVCM
+Type: Package
+Title: Genealized functional partinal linear varying-coefficient models
+Version: 0.1.0
+Author: Ting Li
+Maintainer: Ting Li <tingli16@fudan.edu.cn>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: Unlimited
+Imports: MASS, fda, stats
+Encoding: UTF-8
+LazyData: true
